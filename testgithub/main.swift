@@ -8,5 +8,5 @@
 
 import Foundation
 
-print("Hello, World!")
+print("Hello, World!计算机与信息工程学院")
 
